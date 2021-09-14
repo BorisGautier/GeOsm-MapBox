@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeOsm Android</string>
+    <string name="mapbox_access_token" translatable="false">MAPBOX_PUBLIC_KEY</string>
+</resources>
